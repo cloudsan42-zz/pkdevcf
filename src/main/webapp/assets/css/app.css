@@ -3,7 +3,7 @@
 }
 
 .navbar {
-    background-color: white;
+    background-color: black;
     border: 0;
     margin-bottom: 20px;
 }
@@ -19,7 +19,7 @@
 }
 
 .navbar .navbar-brand {
-    color: white;
+    color: black;
 }
 
 .navbar .navbar-brand:hover {
